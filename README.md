@@ -40,7 +40,7 @@ Installez npm avec :
 Installez bootstrap :
 
 ```bash
-  npm -i bootstrap -D
+ npm install bootstrap --save-dev
 ```
 
 
